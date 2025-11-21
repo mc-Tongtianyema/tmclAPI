@@ -3,4 +3,4 @@
 ## 调用方式
 ### 1.下载我的世界mc本体文件
 调用方式:
-https://tongtianyema.森.ink/版本号/server.jar即可
+https://tongtianyema.森.ink/game/版本号/server.jar即可
